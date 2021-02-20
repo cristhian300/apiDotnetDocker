@@ -1,0 +1,11 @@
+C:\Users\crist\apiDotnet\publicado\apiDotnet.exe
+C:\Users\crist\apiDotnet\publicado\appsettings.Development.json
+C:\Users\crist\apiDotnet\publicado\appsettings.json
+C:\Users\crist\apiDotnet\publicado\apiDotnet.dll
+C:\Users\crist\apiDotnet\publicado\apiDotnet.deps.json
+C:\Users\crist\apiDotnet\publicado\apiDotnet.runtimeconfig.json
+C:\Users\crist\apiDotnet\publicado\apiDotnet.pdb
+C:\Users\crist\apiDotnet\publicado\Microsoft.OpenApi.dll
+C:\Users\crist\apiDotnet\publicado\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\crist\apiDotnet\publicado\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\crist\apiDotnet\publicado\Swashbuckle.AspNetCore.SwaggerUI.dll

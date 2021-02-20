@@ -1,0 +1,11 @@
+F:\pruebaDotnet\webDonet\apiDotnet.exe
+F:\pruebaDotnet\webDonet\appsettings.Development.json
+F:\pruebaDotnet\webDonet\appsettings.json
+F:\pruebaDotnet\webDonet\apiDotnet.dll
+F:\pruebaDotnet\webDonet\apiDotnet.deps.json
+F:\pruebaDotnet\webDonet\apiDotnet.runtimeconfig.json
+F:\pruebaDotnet\webDonet\apiDotnet.pdb
+F:\pruebaDotnet\webDonet\Microsoft.OpenApi.dll
+F:\pruebaDotnet\webDonet\Swashbuckle.AspNetCore.Swagger.dll
+F:\pruebaDotnet\webDonet\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\pruebaDotnet\webDonet\Swashbuckle.AspNetCore.SwaggerUI.dll
