@@ -27,8 +27,3 @@ C:\Users\crist\apiDotnet\obj\Debug\net5.0\apiDotnet.dll
 C:\Users\crist\apiDotnet\obj\Debug\net5.0\ref\apiDotnet.dll
 C:\Users\crist\apiDotnet\obj\Debug\net5.0\apiDotnet.pdb
 C:\Users\crist\apiDotnet\obj\Debug\net5.0\apiDotnet.genruntimeconfig.cache
-C:\Users\crist\apiDotnet\bin\Debug\net5.0\published\web.config
-C:\Users\crist\apiDotnet\bin\Debug\net5.0\published\apiDotnet.deps.json
-C:\Users\crist\apiDotnet\bin\Debug\net5.0\published\apiDotnet.runtimeconfig.json
-C:\Users\crist\apiDotnet\bin\Debug\net5.0\published\appsettings.Development.json
-C:\Users\crist\apiDotnet\bin\Debug\net5.0\published\appsettings.json

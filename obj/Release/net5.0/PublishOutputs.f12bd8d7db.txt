@@ -1,0 +1,11 @@
+C:\jaja\apiDotnet.exe
+C:\jaja\appsettings.Development.json
+C:\jaja\appsettings.json
+C:\jaja\apiDotnet.dll
+C:\jaja\apiDotnet.deps.json
+C:\jaja\apiDotnet.runtimeconfig.json
+C:\jaja\apiDotnet.pdb
+C:\jaja\Microsoft.OpenApi.dll
+C:\jaja\Swashbuckle.AspNetCore.Swagger.dll
+C:\jaja\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\jaja\Swashbuckle.AspNetCore.SwaggerUI.dll
